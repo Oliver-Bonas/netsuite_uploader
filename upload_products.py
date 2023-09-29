@@ -2,7 +2,7 @@ import sys
 import os
 import pandas
 
-AIRFLOW_REPO = "airflow_pipelines_DEV"
+AIRFLOW_REPO = "airflow_pipelines"
 
 sys.path.append(os.path.join(
     os.path.dirname(__file__),
