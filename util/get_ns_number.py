@@ -13,7 +13,7 @@ def get_ns_number(api, word):
     for i in range(100):
         try:
             t = api.client.get_type(f"ns{i}:{word}")
-            print(f"{word} = client.get_type(\"ns{i}:{word}\")")
+            print(f"{word} = api.client.get_type(\"ns{i}:{word}\")")
             break
 
         except zeep.exceptions.LookupError:

@@ -1,0 +1,488 @@
+L(4060, "custitem_ob_magnifying_mirror",           # Magnifying mirror               1208 Magnifying mirror (Yes)
+           r),
+L(4062, "custitem_ob_aperture",                    # Aperture                        1210 Aperture (Double,Multi,Single)
+           r),
+D(4063, "custitem_ob_plant_pot_height",            # Plant pot height
+        r),
+D(4064, "custitem_ob_plant_pot_width",             # Plant pot width
+        r),
+D(4065, "custitem_ob_plant_pot_depth",             # Plant pot depth
+        r),
+I(4066, "custitem_ob_stand_height_cm",             # Stand height cm
+        r),
+I(4067, "custitem_ob_stand_width_cm",              # Stand width cm
+        r),
+I(4068, "custitem_ob_stand_depth_cm",              # Stand depth cm
+        r),
+D(4069, "custitem_ob_pot_internal_diameter_cm",    # Pot internal diameter cm
+        r),
+L(4070, "custitem_ob_stand_included",              # Stand included                  1218 Stand included (Yes,No)
+           r),
+L(4071, "custitem_ob_drainage_hole",               # Drainage hole                   1219 Drainage hole (Yes,No)
+           r),
+L(4072, "custitem_ob_plant_included",              # Plant included                  1220 Plant included (No,Yes)
+           r),
+L(4073, "custitem_ob_faux_bedding",                # Faux bedding                    1221 Faux bedding (Moss,Pebbles,Soil)
+           r),
+L(4074, "custitem_ob_pot_type",                    # Pot type                        1222 Pot type (Plastic,Clay)
+           r),
+L(4075, "custitem_ob_cushion_inner",               # Cushion inner                   1223 Cushion inner (Polyester)
+           r),
+L(4076, "custitem_ob_inner_included",              # Inner included                  1224 Inner included (Yes,No)
+           r),
+L(4077, "custitem_ob_cover_included",              # Cover included                  1225 Cover included (No)
+           r),
+L(4078, "custitem_ob_recommended_inner",           # Recommended inner               1226 Recommended inner (30x50,32x95,45x45)
+           r),
+L(4080, "custitem_ob_recessed_frame",              # Recessed frame                  1228 Recessed frame (Yes)
+           r),
+L(4081, "custitem_ob_frame_finish",                # Frame finish                    1229 Frame finish (Satin,Matte)
+           r),
+L(4082, "custitem_ob_frame_colour",                # Frame colour                    1230 Frame colour (Black,Gold,Natural,White)
+           r),
+L(4083, "custitem_ob_mount_colour",                # Mount colour                    1231 Mount colour (Black,Cream,White)
+           r),
+L(4084, "custitem_ob_removable_print",             # Removable print                 1232 Removable print (Yes,No)
+           r),
+L(4085, "custitem_ob_wall_art_design",             # Wall art design                 1233 Wall art design (Abstract,Animal,Graphic,Landscape,London)
+           r),
+L(4086, "custitem_ob_wall_art_designer",           # Wall art designer               1234 Wall art designer (All the ways to say,Fox & Velvet,Henry Rivers,HollieGraphik,Honeymoon Hotel)
+           r),
+L(4087, "custitem_ob_ribbon_colour",               # Ribbon colour                   1235 Ribbon colour (Black,Blue,Brown,Clear,Copper)
+           r),
+L(4088, "custitem_ob_hanging_string_colour",       # Hanging string colour           1376 Hanging string colour (Black,Blue,Brown,Clear,Copper)
+           r),
+M(4089, "custitem_ob_book_subject_filter",         # Book subject filter             1237 Book subject filter (Books For Change,Children's Books,Colouring Books,Design & Art Books,Feminist Books)
+           r),
+L(4090, "custitem_ob_cover_type",                  # Cover type                      1238 Cover type (Hardback,Paperback)
+           r),
+S(4091, "custitem_ob_page_count",                  # Page count
+        r),
+S(4092, "custitem_ob_author",                      # Author
+        r),
+S(4093, "custitem_ob_publisher",                   # Publisher
+        r),
+L(4094, "custitem_ob_illustrated",                 # Illustrated                     1241 Illustrated (Yes)
+           r),
+S(4095, "custitem_ob_supplier_description",        # Supplier description
+        r),
+S(4096, "custitem_ob_quantity_per_pack",           # Quantity per pack
+        r),
+M(4097, "custitem_ob_card_occasion_filter",        # Card occasion filter            1242 Card occasion filter (Anniversary,Art & Illustration,Baby,Birthday,Christening)
+           r),
+S(4098, "custitem_ob_message_inside",              # Message inside
+        r),
+L(4099, "custitem_ob_envelope_colour",             # Envelope colour                 1243 Envelope colour (Black,Blue,Brown,Clear,Copper)
+           r),
+L(4100, "custitem_ob_charity_contribution",        # Charity contribution            1244 Charity contribution (Yes)
+           r),
+L(4101, "custitem_ob_card_clasp_type",             # Card clasp type                 1245 Card clasp type (Biodegradable cellophane,Cellophane,Nested,Peelable sticker)
+           r),
+L(4102, "custitem_ob_recommended_age",             # Recommended age                 1246 Recommended age (3+,4+,5+,6+,7+)
+           r),
+S(4103, "custitem_ob_integer",                     # No. of pieces
+        r),
+L(4104, "custitem_ob_no_of_players",               # No. of players                  1247 No. of players (2+ players,2-8 players,3-6 players,4+ players,4-8 players)
+           r),
+L(4105, "custitem_ob_diary_type",                  # Diary type                      1248 Diary type (Academic,Yearly)
+           r),
+M(4106, "custitem_ob_cable_connection",            # Cable connection                1249 Cable connection (USB)
+           r),
+M(4107, "custitem_ob_compatibilty",                # Compatibility                   1250 Compatibility (iPhone 11,iPhone 11 Pro,iPhone 11 Pro Max,iPhone 12,iPhone 12 Mini)
+           r),
+L(4108, "custitem_ob_adjustable",                  # Adjustable                      1251 Adjustable (Yes,No)
+           r),
+S(4109, "custitem_ob_servings",                    # Servings
+        r),
+M(4111, "custitem_ob_suitable_for",                # Suitable for ?                  1254 Suitable for ? (Gluten free,Vegans,Vegetarians,Coeliacs,Cats)
+           r),
+L(4118, "custitem_ob_parabens_sls_free",           # Parabens & sls free             1257 Parabens & sls free (Yes)
+           r),
+I(4119, "custitem_ob_leg_height",                  # Leg height
+        r),
+I(4120, "custitem_ob_floor_to_table_height",       # Floor to table height
+        r),
+L(4121, "custitem_ob_wheels",                      # Wheels                          1258 Wheels (Yes)
+           r),
+L(4122, "custitem_ob_foot_adjusters",              # Foot adjusters                  1259 Foot adjusters (Yes)
+           r),
+I(4123, "custitem_ob_seat_height",                 # Seat height
+        r),
+I(4124, "custitem_ob_seat_depth",                  # Seat depth
+        r),
+I(4125, "custitem_ob_arm_height",                  # Arm height
+        r),
+I(4126, "custitem_ob_backrest_height",             # Backrest height
+        r),
+L(4128, "custitem_ob_detachable_feet",             # Detachable feet                 1260 Detachable feet (Yes,No)
+           r),
+L(4129, "custitem_ob_no_of_seats",                 # No. of seats                    1261 No. of seats (One,One and a half,Two)
+           r),
+L(4130, "custitem_ob_upholstered",                 # Upholstered                     1262 Upholstered (Yes,No)
+           r),
+L(4131, "custitem_ob_back_type",                   # Back type                       1263 Back type (Button,Cushion,Fixed,High back,Wingback)
+           r),
+L(4132, "custitem_ob_removable_cushion_covers",    # Removable cushion covers        1264 Removable cushion covers (Yes,No)
+           r),
+L(4133, "custitem_ob_movement_type",               # Movement type                   1265 Movement type (Fixed,Reclines,Swivel)
+           r),
+L(4134, "custitem_ob_cushion_firmness",            # Cushion firmness                1266 Cushion firmness (Firm,Soft)
+           r),
+S(4265, "custitem_ob_hg_length",                   # H&G Length
+        r),
+S(4269, "custitem_ob_hg_longest_length",           # H&G Longest Length
+        r),
+S(4270, "custitem_ob_hg_shortest_length",          # H&G Shortest Length
+        r),
+L(4211, "custitem_ob_brand_blurbs",                # Brand Blurbs			                 1651 Brand Blurbs (Aloha,Basket Room,Esska,Gola,HOFF)
+           r),
+L(4214, "custitem_ob_category_listing_label",      # Category Listing Label          1654 Category Listing Label (AVAILABLE NOW,MADE TO ORDER,Gold Plated,MIX & MATCH LIGHTING: This style is part of our Mix & Matching Lighting collection. Customise your own lamp with a range of bases and colourful shades to choose from. ,NEW TO SALE)
+           r),
+L(4216, "custitem20",                              # Content Department              1656 Content Department (Home,Gift,Beauty,Furniture,Fashion)
+           r),
+S(4217, "custitem_ob_description",                 # Description
+        r),
+S(4219, "custitem_ob_dimensions_content",          # Dimensions (Content)
+        r),
+S(4220, "custitem_ob_directions",                  # Directions (Content)
+        r),
+S(4223, "custitem_extra_features_content",         # Extra Features (Content)
+        r),
+S(4227, "custitem_ob_fit_and_features_content",    # Fit & Features Content
+        r),
+M(4229, "custitem_ob_flags",                       # Flags                           1662 Flags			 (40W Energy Class,Acetate Sunglasses,Acetate Sunglasses Buying Guide,Always check the care label before laundering,Buying Guide: Face Masks)
+           r),
+S(4230, "custitem_ob_ingredients_content",         # Ingredients (Content)
+        r),
+S(4231, "custitem_ob_listing_page_name",           # Listing Page Name
+        r),
+S(4233, "custitem_material_instructions_content",  # Material & Instructions (Content)
+        r),
+M(4234, "custitem_ob_model_specsa_flags",          # Model Specs Flags			            1663 Model Specs Flags			 (Apple,Carter,Felicity,Gabrielle,Gigi)
+           r),
+L(4238, "custitem_ob_product_listing_label",       # Product Listing Label	          1666 Product Listing Label	 (All Fabric Swatches,Bag Strap,Card Delivery Cost,Cushion Inner 30x50cm,Cushion Inner 45x45cm)
+           r),
+L(4239, "custitem_ob_product_page_template",       # Product page template           1667 Product page template (Accessories,Accessories_attribute,Cutouts,Fashion_model,Fashion_model_attribute)
+           r),
+S(4246, "custitem_ob_use_and_care_information",    # Use and Care Information
+        r),
+S(4247, "custitem_ob_weight_content",              # Weight (Content)
+        r),
+L(4248, "custitem_ob_visibilty",                   # Visibility                      1674 Visibility (Catalog, Search,Catalog,Search,Not Visible Individually)
+           r),
+BooleanCustomFieldRef(4275, "custitem_ob_platform_plus",  # Live for Platform Plus
+        True),
+L(3999, "custitem_ob_fashion_set",                 # Fashion Set                     1151 Set (Gift set,Set of two,Set of three,Set of four,Set of five)
+           r),
+S(4113, "custitem_ob_fashion_shortest_length",     # Fashion Shortest length
+        r),
+S(4114, "custitem_ob_fashion_longest_length",      # Fashion Longest Length
+        r),
+M(4141, "custitem_ob_clothing_fastening",          # Clothing fastening              1477 Clothing fastening (Belt,Buckle,Button,Fly,Loop)
+           r),
+L(4142, "custitem_ob_sleeve_length",               # Sleeve length                   1478 Sleeve length (Long,Puff,Short,Sleeveless,Strappy)
+           r),
+L(4143, "custitem_ob_neckline",                    # Neckline                        1479 Neckline (Collar,Crew neck,Funnel neck,Halter neck,High neck)
+           r),
+M(4151, "custitem_ob_clothing_fit",                # Clothing fit                    1480 Clothing fit (Ankle Length,Ankle slim,Baggy,Bodycon,Bolero)
+           r),
+L(4152, "custitem_ob_trouser_waist",               # Trouser waist                   1483 Trouser waist (Low rise,Mid rise,High waist)
+           r),
+L(4153, "custitem_ob_waistband",                   # Waistband                       1484 Waistband (Paperbag,Elasticated,Tie)
+           r),
+L(4154, "custitem_ob_trouser_style",               # Trouser style                   1485 Trouser style (Bootcut,Boyfriend,Cigarette,Flared,Girlfriend)
+           r),
+S(4155, "custitem_ob_dimensions",                  # Dimensions
+        r),
+L(4157, "custitem_hit",                            # Hit                             1496 Hit (1,2,3,4,5)
+           r),
+M(4159, "custitem_ob_occasion",                    # Occasion                        1498 Occasion (Casual,Day dressing,Evening,Festival,Going out)
+           r),
+M(4160, "custitem_ob_care_instructions",           # Care instructions               1500 Care instructions (Always check the care label before laundering,Machine washable,Dry clean only,Do not wash,Wipe clean only)
+           r),
+L(4164, "custitem_ob_accessories_fastening",       # Accessories fastening           1492 Accessories fastening (Belt,Buckle,Button,Fly,Laces)
+           r),
+L(4165, "custitem_cuffs",                          # Cuffs                           1493 Cuffs (Elasticated,Turn up)
+           r),
+L(4166, "custitem_ob_heel_type",                   # Heel type                       1547 Heel type (Blocked heel,Flat,Flatform,Wedge,Skinny heel)
+           r),
+M(4167, "custitem_ob_sunglasses_flag",             # Sunglasses flag                 1504 Sunglasses flag (Sunglasses CE Mark,Acetate Sunglasses,Acetate Sunglasses Buying Guide,Sunglasses Pouch,Sunglasses Case)
+           r),
+L(4168, "custitem_ob_sunglasses_frame",            # Sunglasses frame                1506 Sunglasses frame (Full frame,Half frame,Metal,Rimless)
+           r),
+D(4169, "custitem_ob_arm_length",                  # Arm length
+        r),
+L(4170, "custitem_ob_bridge",                      # Bridge                          1508 Bridge (1 cm)
+           r),
+L(4171, "custitem_ob_filter_category",             # Filter category                 1509 Filter category (3,0)
+           r),
+L(4172, "custitem_ob_lense_colour",                # Lense colour                    1510 Lens colour (Black,Blue,Brown,Grey,Ombre)
+           r),
+L(4173, "custitem_ob_touch_screen_gloves",         # Touch screen gloves             1511 Touch screen gloves (Yes,No)
+           r),
+L(4174, "custitem_ob_elasticated",                 # Elasticated                     1512 Elasticated (Yes)
+           r),
+L(4175, "custitem_ob_one_size",                    # One size                        1513 One size (Yes)
+           r),
+L(4176, "custitem_ob_card_slots",                  # Card slots                      1514 Card slots (1,2,3,4,5)
+           r),
+L(4177, "custitem_closure",                        # Closure                         1515 Closure (Buttons,Clasp,Concealed magnetic,Concealed magnetic closure,Continuous)
+           r),
+M(4178, "custitem_ob_compartment_details",         # Compartment details             1516 Compartment details (ID window,Internal pouch,Mobile pocket,Removable cardholder and ID window,Removable cardholder)
+           r),
+L(4179, "custitem_hardware",                       # Hardware                        1517 Hardware (Brushed gold toned,Brushed silver toned,Gold,Gold toned,Gunmetal)
+           r),
+L(4180, "custitem_ob_inner_slip_pockets",          # Inner slip pockets              1518 Inner slip pockets (1,2,3,4)
+           r),
+L(4182, "custitem_ob_main_compartments",           # Main compartments               1521 Main compartments (1,2,3)
+           r),
+L(4183, "custitem_ob_outer_pockets",               # Outer pockets                   1522 Outer pockets (1,2,3)
+           r),
+S(4184, "custitem_strap_drop",                     # Strap drop CM
+        r),
+D(4185, "custitem_ob_strap_length",                # Strap length
+        r),
+L(4186, "custitem_ob_strap_type",                  # Strap type                      1525 Strap type (Adjustable strap,Fixed strap,No strap,Two strap,Wrist strap)
+           r),
+D(4187, "custitem_ob_bag_strap_width",             # Bag strap width 
+        r),
+L(4188, "custitem_ob_number_of_straps",            # Number of straps                1527 Number of straps (1,2,3,4,5)
+           r),
+M(4189, "custitem_ob_bag_fits",                    # Bag fits                        1528 Bag fits (13 inch laptop,15 inch laptop,A4 notebook,Small tablet,Large tablet)
+           r),
+L(4190, "custitem_ob_detachable_strap",            # Detachable strap                1529 Detachable strap (Yes,No)
+           r),
+L(4191, "custitem_length_extendable",              # Length extendable               1530 Length extendable (Yes,No)
+           r),
+L(4192, "custitem_ob_necklace_length",             # Necklace length                 1873 Necklace Length (Collar,Long,Short)
+           r),
+L(4193, "custitem_ob_chain_type",                  # Chain type                      1532 Chain type (Anchor,Ball,Beaded,Box,Cable)
+           r),
+D(4195, "custitem_ob_stone_length",                # Stone length
+        r),
+D(4196, "custitem_ob_stone_width",                 # Stone width
+        r),
+S(4197, "custitem_ob_drop",                        # Drop CM
+        r),
+L(4199, "custitem_ob_number_of_chains",            # Number of chains                1538 Number of chains (Double,Single,Triple,Multistrand)
+           r),
+L(4200, "custitem_ob_earring_backs",               # Earring backs                   1540 Earring backs (Clicker,Hook,Latch,Stud,Thread through)
+           r),
+L(4201, "custitem_ob_jewellery_packaging",         # Jewellery packaging             1541 Jewellery packaging (Yes,No)
+           r),
+M(4202, "custitem_ob_jewellery_care_ins",          # Jewellery care instructions     1542 Jewellery care instructions (Jewellery Care: Costume,Jewellery Care: Gold Plated,Jewellery Care: Silver Plated,Jewellery Care: Semi Precious,Jewellery Care: Silver 925)
+           r),
+L(4203, "custitem_ob_hair_closure",                # Hair closure                    1543 Hair closure (Barette,Clasp,Claw,Slide,Snap)
+           r),
+L(4204, "custitem_ob_headband_profile",            # Headband profile                1544 Headband profile (Beaded,Bow,Embellished,Knot top,Statement bow)
+           r),
+L(4205, "custitem_ob_inner_zipped_pockets",        # Inner zipped pockets            1519 Inner zipped pockets (1,2)
+           r),
+L(4206, "custitem_ob_sole_material",               # Sole material                   1495 Sole material (EVA,Jute,Leather,Other materials,Raffia)
+           r),
+L(4241, "custitem_ob_size_guide",                  # Size Guide                      1669 Size Guide (Belt,Shoe,Tights,Gloves,Ring)
+           r),
+D(4262, "custitem_ob_heel_height",                 # Heel height
+        r),
+L(4839, "custitem_ob_fabric_type",                 # Fabric Type                     1861 Fabric Type (Print,Plain,Texture)
+           r),
+L(4840, "custitem_ob_end_use",                     # End Use                         1863 End Use (Smart,Casual,Smart/Casual)
+           r),
+L(4841, "custitem_ob_clothing_shape",              # Clothing Shape                  1862 Clothing Shape (Mini Dresses,Midi Dresses,Maxi Dresses,Shirt Dresses,Shift Dresses)
+           r),
+D(4853, "custitem_ob_length",                      # Length
+        r),
+BooleanCustomFieldRef(4207, "custitem_ob_allow_gift_box",  # Allow Gift Box
+        True),
+L(4208, "custitem_ob_allow_gift_message",          # Allow Gift Message              1648 Allow Gift Message (Yes,No,Use config)
+           r),
+L(4209, "custitem_ob_allow_gift_wrapping",         # Allow Gift Wrapping             1649 Allow Gift Wrapping (Yes,No,Use config)
+           r),
+L(4215, "custitem_ob_cross_sell_products",         # Cross-Sell Products             1655 Cross-Sell Products (Yes)
+           r),
+L(4237, "custitem_ob_price_label",                 # Price Label                     1665 Price Label (Markdown,Full Price)
+           r),
+M(4240, "custitem_ob_related_products",            # Related Products                1668 Related Products (1234689)
+           r),
+M(4243, "custitem_ob_sustainability_cta",          # Sustainability CTA			           1671 Sustainability CTA			 (BC Cotton CTA,BCI Cotton CTA,EcoVero CTA)
+           r),
+M(4244, "custitem_ob_sustainability_flags",        # Sustainability Flags			         1672 Sustainability Flags			 (BCI Cotton,EcoVero,Global Organic Textile Standard (GOTS) ,GRS & RCS,EcoVero CTA)
+           r),
+L(4245, "custitem_ob_upsell_products",             # Up-Sell Products                1673 Up-Sell Products (Yes)
+           r),
+S(4271, "custitem_ob_giftbox_product_id",          # Giftbox Product Id
+        r),
+BooleanCustomFieldRef(4567, "custitem_ob_enable_jewelry_gif",  # Enable Jewellery Giftbox
+        True),
+S(3983, "custitem_ob_height",                      # Height
+        r),
+S(3986, "custitem_ob_depth",                       # Depth
+        r),
+S(4901, "custitem_ob_width",                       # Width CM
+        r),
+S(3987, "custitem_ob_weight",                      # Weight G/KG
+        r),
+S(3988, "custitem_ob_boxed_height_cm",             # Boxed height cm
+        r),
+S(3989, "custitem_ob_boxed_width_cm",              # Boxed width cm
+        r),
+S(3990, "custitem_ob_boxed_depth_cm",              # Boxed depth cm
+        r),
+D(3991, "custitem_ob_boxed_weight",                # Boxed weight G/KG
+        r),
+S(3993, "custitem_ob_extra_features",              # Extra Features
+        r),
+M(3996, "custitem_ob_pattern",                     # Pattern                         1141 Pattern (Abstract,Animal print,Artist,Character,Check)
+           r),
+L(4000, "custitem_ob_matching_items_available",    # Matching Items Available        1145 Matching items available (Yes,No)
+           r),
+M(4001, "custitem_ob_washing_info",                # Washing Info                    1146 Washing info (Air dry only,Always wash separately,Clean with a damp cloth, followed by a soft dry cloth,Cool hand wash only,Dishwasher and microwave safe)
+           r),
+M(4002, "custitem_ob_care_info",                   # Care Info                       1147 Care info (Avoid contact with eyes,Do not exceed maximum wattage,Do not leave in standing water,Do not use abrasive cleaners,Do not use furniture polish)
+           r),
+M(4003, "custitem_ob_safety_info",                 # Safety Info                     1148 Safety info (Do not move burning candles,Domestic use only,For decorative use only,For indoor use only,For use with dry flowers only)
+           r),
+M(4012, "custitem_ob_lined",                       # Lined                           1160 Lined (Bonded,Contrast lining,Fully lined,No,Partially lined)
+           r),
+L(4116, "custitem_ob_fashion_length",              # Fashion Length                  1546 Fashion Length (Midi,Knee,Midaxi,Maxi,Mini)
+           r),
+L(4135, "custitem_ob_product_type",                # Product Type                    1267 Product Type (Activewear,Anklets,Artificial Plants,Bags,Bath)
+           r),
+L(4138, "custitem_ob_style_attribute",             # Style Attribute                 1272 Style Attribute (Airpod Cases,Armchairs,Backpacks,Bag Straps,Baker Boy Hats)
+           r),
+L(4139, "custitem_ob_department_attribute",        # Department Attribute            1273 Department Attribute (Home,Beauty,Gift,Furniture,Fashion)
+           r),
+L(4140, "custitem_ob_brand_attribute",             # Brand Attribute                 1274 Brand Attribute (Beauty Pro,Bloom & Blossom,Bordallo Pinheiro,Coco & Eve,Cocoba)
+           r),
+M(4145, "custitem_ob_colour_attributes",           # Colour Attributes               1481 Colour Attributes (Black,Blue,Brown,Clear,Copper)
+           r),
+M(4147, "custitem_ob_material_attributes",         # Material Attributes             1482 Material Attributes (Bamboo,Brass,Broderie Anglaise,Card,Cashmere)
+           r),
+L(4158, "custitem_ob_shower_resistant",            # Shower Resistant                1497 Shower resistant (Yes,No)
+           r),
+BooleanCustomFieldRef(4831, "custitem_ob_eee",     # EEE
+        True),
+BooleanCustomFieldRef(4832, "custitem_ob_weee_obligation",  # WEEE Obligation
+        True),
+BooleanCustomFieldRef(4833, "custitem_ob_battery",  # Battery
+        True),
+S(4834, "custitem_ob_battery_branded_name",        # Battery Branded Name
+        r),
+S(4836, "custitem_ob_battery_make_up",             # Battery Make Up
+        r),
+S(4837, "custitem_ob_battery_individual_weight",   # Battery Individual Weight Grams
+        r),
+L(4838, "custitem_ob_weee_category",               # WEEE Category                   1860 Weee Category (Appliances Container Refrigerants,Automatic Dispensers,Consumer Equipment,Display Equipment,Electrical and Electronic tools)
+           r),
+L(4843, "custitem_ob_global_web_finish",           # Global Web Attributes Finish    1864 Global Web Attributes Finish (Boucle,Braided,Canvas,Crochet,Embossed)
+           r),
+L(4844, "custitem_ob_global_web_detail",           # Global Web Attributes Detail    1866 Global Web Attributes Detail (Applique,Badges,Beaded,Block printed,Digital printed)
+           r),
+L(4004, "custitem_ob_gift_boxed",                  # Gift boxed                      1152 Gift Boxed (Brown Box,White Box,No,Gift Box)
+           r),
+L(4005, "custitem_ob_hanging_rail",                # Hanging rail                    1153 Hanging rail (Yes)
+           r),
+L(4006, "custitem_ob_no_of_hanging_bars",          # No. of hanging bars             1154 No. of hanging bars (1,2,3,4,5)
+           r),
+L(4007, "custitem_ob_no_of_earrings_bars",         # No. of earrings bars            1155 No. of earrings bars (1,2,3,4,5)
+           r),
+M(4008, "custitem_ob_inside_compartment",          # Inside compartment              1156 Inside compartment (Divided sections,Earring storage,Pockets,Ring compartment)
+           r),
+L(4009, "custitem_ob_no_of_compartments",          # No. of compartments             1157 No. of compartments (1,2,3,4,5)
+           r),
+L(4010, "custitem_ob_hg_fastening",                # Fastening                       1158 Fastening (Buttons,Clasp,Drawstring,Popper buttons,Ties)
+           r),
+L(4011, "custitem_ob_shape",                       # Shape                           1159 Shape (Animal,Arch,Cone,Heart,Hexagonal)
+           r),
+L(4013, "custitem_ob_opening",                     # Opening                         1161 Opening (Door,Drawer,Lid)
+           r),
+L(4014, "custitem_ob_frame_opening",               # Frame opening                   1162 Frame opening (Hinge,Hook,Slide)
+           r),
+L(4015, "custitemob_no_of_drawers",                # No. of drawers                  1163 No. of drawers (1,2,3,4,5)
+           r),
+L(4016, "custitem_ob_no_of_doors",                 # No. of doors                    1164 No. of doors (1,2)
+           r),
+L(4017, "custitem_ob_no_of_shelves",               # No. of shelves                  1165 No. of shelves (1,2,3,4,5)
+           r),
+L(4018, "custitem_ob_adjustable_shelves",          # Adjustable shelves              1166 Adjustable shelves (Yes,No)
+           r),
+L(4019, "custitem_ob_no_of_hooks",                 # No. of hooks                    1167 No. of hooks (1,2,3,4,5)
+           r),
+L(4020, "custitem_ob_variations",                  # Variations                      1168 Variations (Variations may occur)
+           r),
+M(4021, "custitem_ob_home_flags",                  # Home flags                      1169 Home flags (Block printed,Bone,Brass,Crackle glaze,Debossed)
+           r),
+S(4022, "custitem_ob_burn_time",                   # Burn time
+        r),
+S(4024, "custitem_ob_fill_weight_g",               # Fill weight g
+        r),
+S(4025, "custitem_ob_fill_weight_ml",              # Fill weight ml
+        r),
+S(4026, "custitem_ob_ingredients",                 # Ingredients
+        r),
+S(4027, "custitem_ob_allergens",                   # Allergens
+        r),
+S(4028, "custitemob_directions_of_use",            # Directions of use
+        r),
+L(4029, "custitem_ob_outdoor_use",                 # Outdoor use                     1177 Outdoor use (Yes,No)
+           r),
+S(4030, "custitem_ob_fragrance_name",              # Fragrance name
+        r),
+L(4031, "custitem_ob_fragrance_family_filter",     # Fragrance family filter         1179 Fragrance family filter (Floral,Fresh,Woody,Amber)
+           r),
+S(4032, "custitem_ob_scent_notes",                 # Scent notes
+        r),
+D(4033, "custitem_ob_hanging_length_cm",           # Hanging length cm
+        r),
+M(4034, "custitem_ob_wall_hanging_fixtures",       # Wall hanging fixtures           1182 Wall hanging fixtures (Chain,Clips,D-ring,Hanging string,Hangman)
+           r),
+L(4035, "custitem_ob_carry_handles",               # Carry handles                   1183 Carry handles (Yes)
+           r),
+L(4036, "custitem_ob_bottle_capacity",             # Bottle capacity                 1184 Bottle capacity (1,2,3,4,5)
+           r),
+L(4037, "custitem_ob_glass_capacity",              # Glass capacity                  1185 Glass capacity (1,2,3,4,5)
+           r),
+L(4038, "custitem_ob_nesting",                     # Nesting                         1186 Nesting (Yes)
+           r),
+M(4039, "custitem_ob_assembly_required",           # Assembly required               1187 Assembly required (Full assembly required,Legs to be fitted,No assembly required,Partial assembly required)
+           r),
+I(4040, "custitem_ob_fluid_capacity_ml",           # Fluid capacity ml
+        r),
+L(4041, "custitem_ob_led_bulb",                    # Led bulb                        1189 Led bulb (Yes)
+           r),
+L(4042, "custitem_ob_recommended_bulb",            # Recommended bulb                1190 Recommended bulb (Bar Red LED Light Bulb,Calm LED Light Bulb,Crescent Moon LED Light Bulb,Festa Rainbow LED Light Bulb,Hato Heart LED Light Bulb)
+           r),
+L(4043, "custitem_ob_bulb_included",               # Bulb included                   1191 Bulb included (Yes,No)
+           r),
+L(4044, "custitem_ob_bulb_fitting",                # Bulb fitting                    1192 Bulb fitting (B22,E14/SES,E27/ES,G9)
+           r),
+L(4045, "custitem_ob_power_source",                # Power source                    1193 Power source (Batteries included,Batteries not included,Plug,Requires hardwiring)
+           r),
+L(4046, "custitem_ob_conversion_ring_included",    # Conversion ring included        1194 Conversion ring included (Yes,No)
+           r),
+D(4047, "custitem_ob_cord_length_cm",              # Cord length cm
+        r),
+L(4048, "custitem_ob_cord_colour",                 # Cord colour                     1196 Cord colour (Black & White,Grey,White,Champagne)
+           r),
+L(4049, "custitem_ob_switch_type",                 # Switch type                     1197 Switch type (Pull chain,Push button,Rocker,Toggle)
+           r),
+L(4050, "custitem_ob_shade_included",              # Shade included                  1198 Shade included (Yes,No)
+           r),
+L(4051, "custitem_ob_tint",                        # Tint                            1199 Tint (Copper,Gold,Green,Grey,Multi)
+           r),
+L(4052, "custitem_ob_maximum_wattage",             # Maximum wattage                 1200 Maximum wattage (2W LED,4W LED,6W LED,7W LED,15W LED)
+           r),
+L(4053, "custitem_ob_hours",                       # Hours                           1201 Hours (15,000,25,000,30,000)
+           r),
+L(4054, "custitem_ob_voltage",                     # Voltage                         1202 Voltage (220-240V,240V)
+           r),
+L(4055, "custitem_ob_kelvin",                      # Kelvin                          1203 Kelvin (2000K,2100K,2200K,2300K,2400K)
+           r),
+L(4056, "custitem_ob_lumens",                      # Lumens                          1204 Lumens (40,80,90,100,110)
+           r),
+L(4057, "custitem_ob_dimmable",                    # Dimmable                        1205 Dimmable (Yes,No)
+           r),
+L(4058, "custitem_ob_frame_orientation",           # Frame orientation               1206 Frame orientation (Landscape,Portrait,Portrait or landscape)
+           r),
+L(4059, "custitem_ob_tilt",                        # Tilt                            1207 Tilt (Yes)
+           r),

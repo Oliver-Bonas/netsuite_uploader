@@ -1,0 +1,137 @@
+key_0,afterSubmitFailed,code,message,num_status_details,success,type,accessRole,accountNumber,addressbookList,aging,aging1,aging2,aging3,aging4,alcoholRecipientType,altEmail,altName,altPhone,assignedWebSite,balance,billPay,buyingReason,buyingTimeFrame,campaignCategory,category,clickStream,comments,companyName,consolAging,consolAging1,consolAging2,consolAging3,consolAging4,consolBalance,consolDaysOverdue,consolDepositBalance,consolOverdueBalance,consolUnbilledOrders,contactRolesList,contribPct,creditCardsList,creditHoldOverride,creditLimit,currency,currencyList,customFieldList,customForm,dateCreated,daysOverdue,defaultAddress,defaultAllocationStrategy,defaultOrderPriority,defaultTaxReg,depositBalance,displaySymbol,downloadList,drAccount,email,emailPreference,emailTransactions,endDate,entityId,entityStatus,estimatedBudget,externalId,fax,faxTransactions,firstName,firstVisit,fxAccount,giveAccess,globalSubscriptionStatus,groupPricingList,homePhone,image,internalId,isBudgetApproved,isInactive,isPerson,itemPricingList,keywords,language,lastModifiedDate,lastName,lastPageVisited,lastVisit,leadSource,middleName,mobilePhone,monthlyClosing,negativeNumberFormat,nullFieldList,numberFormat,openingBalance,openingBalanceAccount,openingBalanceDate,overdueBalance,overrideCurrencyFormat,parent,partner,partnersList,password,password2,phone,phoneticName,prefCCProcessor,priceLevel,printOnCheckAs,printTransactions,receivablesAccount,referrer,reminderDays,representingSubsidiary,requirePwdChange,resaleNumber,salesGroup,salesReadiness,salesRep,salesTeamList,salutation,sendEmail,shipComplete,shippingItem,sourceWebSite,stage,startDate,subscriptionsList,subsidiary,symbolPlacement,syncPartnerTeams,taxExempt,taxItem,taxRegistrationList,taxable,terms,territory,thirdPartyAcct,thirdPartyCountry,thirdPartyZipcode,title,unbilledOrders,url,vatRegNumber,visits,webLead,api_method
+0,,DUP_ENTITY,This entity already exists.,1,False,ERROR,,,"{
+    'addressbook': [
+        {
+            'defaultShipping': 'ADDRESS1_DEFAULTSHIPTO',
+            'defaultBilling': 'ADDRESS1_DEFAULTBILLTO',
+            'isResidential': None,
+            'label': 'ADDRESS1_ADDRESSNAME',
+            'addressbookAddress': {
+                'nullFieldList': None,
+                'internalId': None,
+                'country': '_heardAndMcDonaldIslands',
+                'attention': 'ADDRESS1_ATTENTION',
+                'addressee': None,
+                'addrPhone': 1234567890,
+                'addr1': 'ADDRESS1_LINE1',
+                'addr2': None,
+                'addr3': None,
+                'city': 'ADDRESS1_CITY',
+                'state': 'ADDRESS1_STATE',
+                'zip': 'ZI12 3PP',
+                'addrText': None,
+                'override': None,
+                'customFieldList': None
+            },
+            'internalId': None
+        },
+        {
+            'defaultShipping': True,
+            'defaultBilling': False,
+            'isResidential': None,
+            'label': 'ADDRESS2_ADDRESSNAME',
+            'addressbookAddress': {
+                'nullFieldList': None,
+                'internalId': None,
+                'country': '_unitedStates',
+                'attention': 'ADDRESS2_ATTENTION',
+                'addressee': None,
+                'addrPhone': 1234567890,
+                'addr1': 'ADDRESS2_LINE1',
+                'addr2': None,
+                'addr3': None,
+                'city': 'ADDRESS2_CITY',
+                'state': 'ADDRESS2_STATE',
+                'zip': 'ZI12 3PP',
+                'addrText': None,
+                'override': None,
+                'customFieldList': None
+            },
+            'internalId': None
+        }
+    ],
+    'replaceAll': 'true'
+}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{
+    'name': None,
+    'internalId': 1,
+    'externalId': None,
+    'type': None
+}",,,,,,,,,,,,,,EMAIL@EMAIL.com,,,,customer_human_4444444,"{
+    'name': None,
+    'internalId': 13,
+    'externalId': None,
+    'type': None
+}",,1119993334,,,newCHANGE,,,,,,,,,,,True,,,,,guyCHANGE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{
+    'name': None,
+    'internalId': 2,
+    'externalId': None,
+    'type': None
+}",,,,,,,,,,,,,,,,,,addList
+0,0.0,,,1,True,ERROR,,,"{
+    'addressbook': [
+        {
+            'defaultShipping': 'ADDRESS1_DEFAULTSHIPTO',
+            'defaultBilling': 'ADDRESS1_DEFAULTBILLTO',
+            'isResidential': None,
+            'label': 'ADDRESS1_ADDRESSNAME',
+            'addressbookAddress': {
+                'nullFieldList': None,
+                'internalId': None,
+                'country': '_heardAndMcDonaldIslands',
+                'attention': 'ADDRESS1_ATTENTION',
+                'addressee': None,
+                'addrPhone': 1234567890,
+                'addr1': 'ADDRESS1_LINE1',
+                'addr2': None,
+                'addr3': None,
+                'city': 'ADDRESS1_CITY',
+                'state': 'ADDRESS1_STATE',
+                'zip': 'ZI12 3PP',
+                'addrText': None,
+                'override': None,
+                'customFieldList': None
+            },
+            'internalId': None
+        },
+        {
+            'defaultShipping': True,
+            'defaultBilling': False,
+            'isResidential': None,
+            'label': 'ADDRESS2_ADDRESSNAME',
+            'addressbookAddress': {
+                'nullFieldList': None,
+                'internalId': None,
+                'country': '_unitedStates',
+                'attention': 'ADDRESS2_ATTENTION',
+                'addressee': None,
+                'addrPhone': 1234567890,
+                'addr1': 'ADDRESS2_LINE1',
+                'addr2': None,
+                'addr3': None,
+                'city': 'ADDRESS2_CITY',
+                'state': 'ADDRESS2_STATE',
+                'zip': 'ZI12 3PP',
+                'addrText': None,
+                'override': None,
+                'customFieldList': None
+            },
+            'internalId': None
+        }
+    ],
+    'replaceAll': 'true'
+}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{
+    'name': None,
+    'internalId': 1,
+    'externalId': None,
+    'type': None
+}",,,,,,,,,,,,,,EMAIL@EMAIL.com,,,,customer_human_4444444,"{
+    'name': None,
+    'internalId': 13,
+    'externalId': None,
+    'type': None
+}",,customer_human_1119993334,,,newCHANGE,,,,,,,,,,,True,,,,,guyCHANGE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{
+    'name': None,
+    'internalId': 2,
+    'externalId': None,
+    'type': None
+}",,,,,,,,,,,,,,,,,,addList

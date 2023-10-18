@@ -1,0 +1,30 @@
+apache-airflow==2.5.1
+apache-airflow-providers-dbt-cloud
+apache-airflow-providers-google
+apache-airflow-providers-microsoft-mssql
+requests
+google-cloud-secret-manager
+google-cloud-storage
+google
+#oauth2client
+pandas
+zeep
+#SQLAlchemy - not needed since it is a dependency of apache-airflow
+gcsfs
+#googleanalytics
+pandas-gbq
+netsuitesdk
+isoweek
+slackclient
+openpyxl
+black
+isort
+flake8
+sendgrid
+pyodbc
+pymssql
+pymysql
+# this is the version cloud composer uses
+facebook-business==17.0.4
+paramiko
+icecream
