@@ -1173,3 +1173,414 @@ key_0,afterSubmitFailed,code,message,num_status_details,success,type,accountingB
     'externalId': None,
     'type': None
 }",,,,,,,,,,,,,,,,,,,,,updateList
+0,,INVALID_KEY_OR_REF,The specified key is invalid.,1,False,ERROR,,,"{
+    'name': None,
+    'internalId': 1772,
+    'externalId': None,
+    'type': None
+}",,,,,,,,,,,,,"{
+    'name': None,
+    'internalId': None,
+    'externalId': 61010,
+    'type': None
+}",,,,,,"{
+    'name': None,
+    'internalId': 2,
+    'externalId': None,
+    'type': None
+}",,,,,,,,,,,"{
+    'customField': [
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        {
+            'value': 'Maurice the Mouse is a friendly companion to your jewellery collection, and also makes for an adorable addition to your neckline. Suspended on a dainty adjustable chain with a lobster clasp, this pendant necklace is in a high-shine silver 925.',
+            'internalId': 4217,
+            'scriptId': 'custitem_ob_description'
+        },
+        {
+            'value': '<ul><li>Length of chain: 44cm plus extender chain</li></ul>',
+            'internalId': 4219,
+            'scriptId': 'custitem_ob_dimensions_content'
+        },
+        None,
+        None,
+        {
+            'value': '<ul>\r\n<li>Pendant style</li>\r\n<li>Fine adjustable chain</li>\r\n<li>Spring ring clasp</li>\r\n<li>Maurice Mouse design</li>\r\n</ul>',
+            'internalId': 4227,
+            'scriptId': 'custitem_ob_fit_and_features_content'
+        },
+        {
+            'value': [
+                {
+                    'name': None,
+                    'internalId': 15,
+                    'externalId': None,
+                    'typeId': None
+                }
+            ],
+            'internalId': 4229,
+            'scriptId': 'custitem_ob_flags'
+        },
+        None,
+        {
+            'value': 'Maurice Mouse Silver Necklace',
+            'internalId': 4231,
+            'scriptId': 'custitem_ob_listing_page_name'
+        },
+        {
+            'value': '<ul><li>Silver 925</li></ul>',
+            'internalId': 4233,
+            'scriptId': 'custitem_material_instructions_content'
+        },
+        None,
+        None,
+        {
+            'value': {
+                'name': None,
+                'internalId': 4,
+                'externalId': None,
+                'typeId': None
+            },
+            'internalId': 4239,
+            'scriptId': 'custitem_ob_product_page_template'
+        },
+        None,
+        None,
+        None,
+        {
+            'value': 4275,
+            'internalId': 'custitem_ob_platform_plus',
+            'scriptId': True
+        },
+        None,
+        {
+            'value': '46 cm',
+            'internalId': 4113,
+            'scriptId': 'custitem_ob_fashion_shortest_length'
+        },
+        {
+            'value': '53',
+            'internalId': 4114,
+            'scriptId': 'custitem_ob_fashion_longest_length'
+        },
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        {
+            'value': '1.3',
+            'internalId': 4197,
+            'scriptId': 'custitem_ob_drop'
+        },
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        {
+            'value': 4207,
+            'internalId': 'custitem_ob_allow_gift_box',
+            'scriptId': '1'
+        },
+        None,
+        None,
+        None,
+        {
+            'value': {
+                'name': None,
+                'internalId': 1,
+                'externalId': None,
+                'typeId': None
+            },
+            'internalId': 4237,
+            'scriptId': 'custitem_ob_price_label'
+        },
+        None,
+        None,
+        None,
+        None,
+        None,
+        {
+            'value': 4567,
+            'internalId': 'custitem_ob_enable_jewelry_gif',
+            'scriptId': None
+        },
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        {
+            'value': {
+                'name': None,
+                'internalId': 98,
+                'externalId': None,
+                'typeId': None
+            },
+            'internalId': 4135,
+            'scriptId': 'custitem_ob_product_type'
+        },
+        {
+            'value': {
+                'name': None,
+                'internalId': 425,
+                'externalId': None,
+                'typeId': None
+            },
+            'internalId': 4138,
+            'scriptId': 'custitem_ob_style_attribute'
+        },
+        {
+            'value': {
+                'name': None,
+                'internalId': 7,
+                'externalId': None,
+                'typeId': None
+            },
+            'internalId': 4139,
+            'scriptId': 'custitem_ob_department_attribute'
+        },
+        None,
+        {
+            'value': [
+                {
+                    'name': None,
+                    'internalId': 17,
+                    'externalId': None,
+                    'typeId': None
+                }
+            ],
+            'internalId': 4145,
+            'scriptId': 'custitem_ob_colour_attributes'
+        },
+        {
+            'value': [
+                {
+                    'name': None,
+                    'internalId': 124,
+                    'externalId': None,
+                    'typeId': None
+                }
+            ],
+            'internalId': 4147,
+            'scriptId': 'custitem_ob_material_attributes'
+        },
+        None,
+        {
+            'value': 4831,
+            'internalId': 'custitem_ob_eee',
+            'scriptId': True
+        },
+        {
+            'value': 4832,
+            'internalId': 'custitem_ob_weee_obligation',
+            'scriptId': True
+        },
+        {
+            'value': 4833,
+            'internalId': 'custitem_ob_battery',
+            'scriptId': True
+        },
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        {
+            'value': {
+                'name': None,
+                'internalId': 1,
+                'externalId': None,
+                'typeId': None
+            },
+            'internalId': 4011,
+            'scriptId': 'custitem_ob_shape'
+        },
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None,
+        None
+    ]
+}",,,,,,,,,,,,,,,,,,,,,new-regular-PRODUCT-1320572,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,new-regular-PRODUCT-1320572,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"{
+    'name': None,
+    'internalId': 1,
+    'externalId': None,
+    'type': None
+}",,,,,,,,,,,,,,,,,,,,,updateList
