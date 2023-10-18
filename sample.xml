@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <soapenv:Header>
+        <platformMsgs:documentInfo xmlns:platformMsgs="urn:messages_2021_2.platform.webservices.netsuite.com">
+            <platformMsgs:nsId>WEBSERVICES_1026328_SB1_100820232685272101636093744_ff93bbcc</platformMsgs:nsId>
+        </platformMsgs:documentInfo></soapenv:Header><soapenv:Body>
+    <getResponse xmlns="urn:messages_2021_2.platform.webservices.netsuite.com"><readResponse>
+        <platformCore:status isSuccess="true" xmlns:platformCore="urn:core_2021_2.platform.webservices.netsuite.com"/>
+        <record internalId="2721" xsi:type="setupCustom:ItemCustomField" xmlns:setupCustom="urn:customization_2021_2.setup.webservices.netsuite.com">
+            <setupCustom:label>Colour</setupCustom:label>
+            <setupCustom:owner internalId="7" xmlns:platformCore="urn:core_2021_2.platform.webservices.netsuite.com">
+                <platformCore:name>Vaseeulla N</platformCore:name></setupCustom:owner>
+            <setupCustom:itemMatrix>true</setupCustom:itemMatrix>
+            <setupCustom:selectRecordType internalId="975" xmlns:platformCore="urn:core_2021_2.platform.webservices.netsuite.com">
+                <platformCore:name>Colour</platformCore:name></setupCustom:selectRecordType>
+            <setupCustom:storeValue>true</setupCustom:storeValue>
+            <setupCustom:showInList>true</setupCustom:showInList>
+            <setupCustom:globalSearch>false</setupCustom:globalSearch>
+            <setupCustom:isParent>false</setupCustom:isParent>
+            <setupCustom:subtab internalId="-12" xmlns:platformCore="urn:core_2021_2.platform.webservices.netsuite.com">
+                <platformCore:name>Matrix</platformCore:name>
+            </setupCustom:subtab><setupCustom:displayType>_normal</setupCustom:displayType>
+            <setupCustom:isMandatory>false</setupCustom:isMandatory><setupCustom:checkSpelling>false</setupCustom:checkSpelling
+            <setupCustom:defaultChecked>false</setupCustom:defaultChecked><setupCustom:isFormula>false</setupCustom:isFormula>
+            <setupCustom:appliesToInventory>true</setupCustom:appliesToInventory>
+            <setupCustom:appliesToNonInventory>false</setupCustom:appliesToNonInventory>
+            <setupCustom:appliesToService>false</setupCustom:appliesToService>
+            <setupCustom:appliesToOtherCharge>false</setupCustom:appliesToOtherCharge>
+            <setupCustom:appliesToGroup>false</setupCustom:appliesToGroup>
+            <setupCustom:appliesToKit>false</setupCustom:appliesToKit>
+            <setupCustom:appliesToItemAssembly>false</setupCustom:appliesToItemAssembly>
+            <setupCustom:itemSubType>_both</setupCustom:itemSubType>
+            <setupCustom:appliesToPriceList>false</setupCustom:appliesToPriceList>
+            <setupCustom:accessLevel>_edit</setupCustom:accessLevel>
+            <setupCustom:searchLevel>_edit</setupCustom:searchLevel>
+            <setupCustom:translationsList><setupCustom:translations/>
+                <setupCustom:translations/><setupCustom:translations/>
+                <setupCustom:translations/><setupCustom:translations/>
+                <setupCustom:translations/><setupCustom:translations/>
+                <setupCustom:translations/><setupCustom:translations/>
+                <setupCustom:translations/><setupCustom:translations/>
+                <setupCustom:translations/><setupCustom:translations/>
+                <setupCustom:translations/><setupCustom:translations/>
+                <setupCustom:translations/><setupCustom:translations/>
+                <setupCustom:translations/><setupCustom:translations/>
+                <setupCustom:translations/><setupCustom:translations/>
+                <setupCustom:translations/><setupCustom:translations/>
+                <setupCustom:translations/><setupCustom:translations/>
+            </setupCustom:translationsList><setupCustom:fieldType>_multipleSelect</setupCustom:fieldType>
+            <setupCustom:scriptId>custitemcolorcustom</setupCustom:scriptId></record></readResponse>
+    </getResponse></soapenv:Body></soapenv:Envelope>
+
