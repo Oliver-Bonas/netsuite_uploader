@@ -1,2 +1,5 @@
 .idea
 __pycache__/
+transaction_uploader/thread_logs
+product_uploader/thread_logs
+customer_uploader/thread_logs
