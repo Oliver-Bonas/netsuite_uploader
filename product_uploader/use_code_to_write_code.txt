@@ -1,139 +1,3 @@
-L(4060, "custitem_ob_magnifying_mirror",           # Magnifying mirror               1208 Magnifying mirror (Yes)
-           r),
-L(4062, "custitem_ob_aperture",                    # Aperture                        1210 Aperture (Double,Multi,Single)
-           r),
-D(4063, "custitem_ob_plant_pot_height",            # Plant pot height
-        r),
-D(4064, "custitem_ob_plant_pot_width",             # Plant pot width
-        r),
-D(4065, "custitem_ob_plant_pot_depth",             # Plant pot depth
-        r),
-I(4066, "custitem_ob_stand_height_cm",             # Stand height cm
-        r),
-I(4067, "custitem_ob_stand_width_cm",              # Stand width cm
-        r),
-I(4068, "custitem_ob_stand_depth_cm",              # Stand depth cm
-        r),
-D(4069, "custitem_ob_pot_internal_diameter_cm",    # Pot internal diameter cm
-        r),
-L(4070, "custitem_ob_stand_included",              # Stand included                  1218 Stand included (Yes,No)
-           r),
-L(4071, "custitem_ob_drainage_hole",               # Drainage hole                   1219 Drainage hole (Yes,No)
-           r),
-L(4072, "custitem_ob_plant_included",              # Plant included                  1220 Plant included (No,Yes)
-           r),
-L(4073, "custitem_ob_faux_bedding",                # Faux bedding                    1221 Faux bedding (Moss,Pebbles,Soil)
-           r),
-L(4074, "custitem_ob_pot_type",                    # Pot type                        1222 Pot type (Plastic,Clay)
-           r),
-L(4075, "custitem_ob_cushion_inner",               # Cushion inner                   1223 Cushion inner (Polyester)
-           r),
-L(4076, "custitem_ob_inner_included",              # Inner included                  1224 Inner included (Yes,No)
-           r),
-L(4077, "custitem_ob_cover_included",              # Cover included                  1225 Cover included (No)
-           r),
-L(4078, "custitem_ob_recommended_inner",           # Recommended inner               1226 Recommended inner (30x50,32x95,45x45)
-           r),
-L(4080, "custitem_ob_recessed_frame",              # Recessed frame                  1228 Recessed frame (Yes)
-           r),
-L(4081, "custitem_ob_frame_finish",                # Frame finish                    1229 Frame finish (Satin,Matte)
-           r),
-L(4082, "custitem_ob_frame_colour",                # Frame colour                    1230 Frame colour (Black,Gold,Natural,White)
-           r),
-L(4083, "custitem_ob_mount_colour",                # Mount colour                    1231 Mount colour (Black,Cream,White)
-           r),
-L(4084, "custitem_ob_removable_print",             # Removable print                 1232 Removable print (Yes,No)
-           r),
-L(4085, "custitem_ob_wall_art_design",             # Wall art design                 1233 Wall art design (Abstract,Animal,Graphic,Landscape,London)
-           r),
-L(4086, "custitem_ob_wall_art_designer",           # Wall art designer               1234 Wall art designer (All the ways to say,Fox & Velvet,Henry Rivers,HollieGraphik,Honeymoon Hotel)
-           r),
-L(4087, "custitem_ob_ribbon_colour",               # Ribbon colour                   1235 Ribbon colour (Black,Blue,Brown,Clear,Copper)
-           r),
-L(4088, "custitem_ob_hanging_string_colour",       # Hanging string colour           1376 Hanging string colour (Black,Blue,Brown,Clear,Copper)
-           r),
-M(4089, "custitem_ob_book_subject_filter",         # Book subject filter             1237 Book subject filter (Books For Change,Children's Books,Colouring Books,Design & Art Books,Feminist Books)
-           r),
-L(4090, "custitem_ob_cover_type",                  # Cover type                      1238 Cover type (Hardback,Paperback)
-           r),
-S(4091, "custitem_ob_page_count",                  # Page count
-        r),
-S(4092, "custitem_ob_author",                      # Author
-        r),
-S(4093, "custitem_ob_publisher",                   # Publisher
-        r),
-L(4094, "custitem_ob_illustrated",                 # Illustrated                     1241 Illustrated (Yes)
-           r),
-S(4095, "custitem_ob_supplier_description",        # Supplier description
-        r),
-S(4096, "custitem_ob_quantity_per_pack",           # Quantity per pack
-        r),
-M(4097, "custitem_ob_card_occasion_filter",        # Card occasion filter            1242 Card occasion filter (Anniversary,Art & Illustration,Baby,Birthday,Christening)
-           r),
-S(4098, "custitem_ob_message_inside",              # Message inside
-        r),
-L(4099, "custitem_ob_envelope_colour",             # Envelope colour                 1243 Envelope colour (Black,Blue,Brown,Clear,Copper)
-           r),
-L(4100, "custitem_ob_charity_contribution",        # Charity contribution            1244 Charity contribution (Yes)
-           r),
-L(4101, "custitem_ob_card_clasp_type",             # Card clasp type                 1245 Card clasp type (Biodegradable cellophane,Cellophane,Nested,Peelable sticker)
-           r),
-L(4102, "custitem_ob_recommended_age",             # Recommended age                 1246 Recommended age (3+,4+,5+,6+,7+)
-           r),
-S(4103, "custitem_ob_integer",                     # No. of pieces
-        r),
-L(4104, "custitem_ob_no_of_players",               # No. of players                  1247 No. of players (2+ players,2-8 players,3-6 players,4+ players,4-8 players)
-           r),
-L(4105, "custitem_ob_diary_type",                  # Diary type                      1248 Diary type (Academic,Yearly)
-           r),
-M(4106, "custitem_ob_cable_connection",            # Cable connection                1249 Cable connection (USB)
-           r),
-M(4107, "custitem_ob_compatibilty",                # Compatibility                   1250 Compatibility (iPhone 11,iPhone 11 Pro,iPhone 11 Pro Max,iPhone 12,iPhone 12 Mini)
-           r),
-L(4108, "custitem_ob_adjustable",                  # Adjustable                      1251 Adjustable (Yes,No)
-           r),
-S(4109, "custitem_ob_servings",                    # Servings
-        r),
-M(4111, "custitem_ob_suitable_for",                # Suitable for ?                  1254 Suitable for ? (Gluten free,Vegans,Vegetarians,Coeliacs,Cats)
-           r),
-L(4118, "custitem_ob_parabens_sls_free",           # Parabens & sls free             1257 Parabens & sls free (Yes)
-           r),
-I(4119, "custitem_ob_leg_height",                  # Leg height
-        r),
-I(4120, "custitem_ob_floor_to_table_height",       # Floor to table height
-        r),
-L(4121, "custitem_ob_wheels",                      # Wheels                          1258 Wheels (Yes)
-           r),
-L(4122, "custitem_ob_foot_adjusters",              # Foot adjusters                  1259 Foot adjusters (Yes)
-           r),
-I(4123, "custitem_ob_seat_height",                 # Seat height
-        r),
-I(4124, "custitem_ob_seat_depth",                  # Seat depth
-        r),
-I(4125, "custitem_ob_arm_height",                  # Arm height
-        r),
-I(4126, "custitem_ob_backrest_height",             # Backrest height
-        r),
-L(4128, "custitem_ob_detachable_feet",             # Detachable feet                 1260 Detachable feet (Yes,No)
-           r),
-L(4129, "custitem_ob_no_of_seats",                 # No. of seats                    1261 No. of seats (One,One and a half,Two)
-           r),
-L(4130, "custitem_ob_upholstered",                 # Upholstered                     1262 Upholstered (Yes,No)
-           r),
-L(4131, "custitem_ob_back_type",                   # Back type                       1263 Back type (Button,Cushion,Fixed,High back,Wingback)
-           r),
-L(4132, "custitem_ob_removable_cushion_covers",    # Removable cushion covers        1264 Removable cushion covers (Yes,No)
-           r),
-L(4133, "custitem_ob_movement_type",               # Movement type                   1265 Movement type (Fixed,Reclines,Swivel)
-           r),
-L(4134, "custitem_ob_cushion_firmness",            # Cushion firmness                1266 Cushion firmness (Firm,Soft)
-           r),
-S(4265, "custitem_ob_hg_length",                   # H&G Length
-        r),
-S(4269, "custitem_ob_hg_longest_length",           # H&G Longest Length
-        r),
-S(4270, "custitem_ob_hg_shortest_length",          # H&G Shortest Length
-        r),
 L(4211, "custitem_ob_brand_blurbs",                # Brand Blurbs			                 1651 Brand Blurbs (Aloha,Basket Room,Esska,Gola,HOFF)
            r),
 L(4214, "custitem_ob_category_listing_label",      # Category Listing Label          1654 Category Listing Label (AVAILABLE NOW,MADE TO ORDER,Gold Plated,MIX & MATCH LIGHTING: This style is part of our Mix & Matching Lighting collection. Customise your own lamp with a range of bases and colourful shades to choose from. ,NEW TO SALE)
@@ -170,7 +34,7 @@ S(4247, "custitem_ob_weight_content",              # Weight (Content)
         r),
 L(4248, "custitem_ob_visibilty",                   # Visibility                      1674 Visibility (Catalog, Search,Catalog,Search,Not Visible Individually)
            r),
-BooleanCustomFieldRef(4275, "custitem_ob_platform_plus",  # Live for Platform Plus
+B(4275, "custitem_ob_platform_plus",               # Live for Platform Plus
         True),
 L(3999, "custitem_ob_fashion_set",                 # Fashion Set                     1151 Set (Gift set,Set of two,Set of three,Set of four,Set of five)
            r),
@@ -292,7 +156,7 @@ L(4841, "custitem_ob_clothing_shape",              # Clothing Shape             
            r),
 D(4853, "custitem_ob_length",                      # Length
         r),
-BooleanCustomFieldRef(4207, "custitem_ob_allow_gift_box",  # Allow Gift Box
+B(4207, "custitem_ob_allow_gift_box",              # Allow Gift Box
         True),
 L(4208, "custitem_ob_allow_gift_message",          # Allow Gift Message              1648 Allow Gift Message (Yes,No,Use config)
            r),
@@ -312,7 +176,7 @@ L(4245, "custitem_ob_upsell_products",             # Up-Sell Products           
            r),
 S(4271, "custitem_ob_giftbox_product_id",          # Giftbox Product Id
         r),
-BooleanCustomFieldRef(4567, "custitem_ob_enable_jewelry_gif",  # Enable Jewellery Giftbox
+B(4567, "custitem_ob_enable_jewelry_gif",          # Enable Jewellery Giftbox
         True),
 S(3983, "custitem_ob_height",                      # Height
         r),
@@ -360,11 +224,11 @@ M(4147, "custitem_ob_material_attributes",         # Material Attributes        
            r),
 L(4158, "custitem_ob_shower_resistant",            # Shower Resistant                1497 Shower resistant (Yes,No)
            r),
-BooleanCustomFieldRef(4831, "custitem_ob_eee",     # EEE
+B(4831, "custitem_ob_eee",                         # EEE
         True),
-BooleanCustomFieldRef(4832, "custitem_ob_weee_obligation",  # WEEE Obligation
+B(4832, "custitem_ob_weee_obligation",             # WEEE Obligation
         True),
-BooleanCustomFieldRef(4833, "custitem_ob_battery",  # Battery
+B(4833, "custitem_ob_battery",                     # Battery
         True),
 S(4834, "custitem_ob_battery_branded_name",        # Battery Branded Name
         r),
@@ -485,4 +349,6 @@ L(4057, "custitem_ob_dimmable",                    # Dimmable                   
 L(4058, "custitem_ob_frame_orientation",           # Frame orientation               1206 Frame orientation (Landscape,Portrait,Portrait or landscape)
            r),
 L(4059, "custitem_ob_tilt",                        # Tilt                            1207 Tilt (Yes)
+           r),
+L(4060, "custitem_ob_magnifying_mirror",           # Magnifying mirror               1208 Magnifying mirror (Yes)
            r),
