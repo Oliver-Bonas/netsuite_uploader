@@ -6,3 +6,4 @@ customer_uploader/thread_logs
 /transaction_uploader/legacy_logs/
 /customer_uploader/legacy_logs/
 /api_playground/
+/transaction_uploader/test_upload/
