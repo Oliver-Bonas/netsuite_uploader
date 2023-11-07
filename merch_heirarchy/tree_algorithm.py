@@ -2,6 +2,8 @@ import pandas
 import os
 cols = ["department", "new_pgr", "new_sgr", "new_type", "new_type_detail"]
 
+# todo: remove todos
+# todo: directly from bigquery pandas.read_gbq
 everything = pandas.read_csv('all_attributes_and_properties.csv')
 """
 fashion_extras = pandas.read_csv('fashion_extras.csv', delimiter="@")

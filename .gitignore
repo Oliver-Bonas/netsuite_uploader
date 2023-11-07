@@ -3,3 +3,6 @@ __pycache__/
 transaction_uploader/thread_logs
 product_uploader/thread_logs
 customer_uploader/thread_logs
+/transaction_uploader/legacy_logs/
+/customer_uploader/legacy_logs/
+/api_playground/
