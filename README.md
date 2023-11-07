@@ -6,3 +6,8 @@
 # open netsuite_uploader
 
 MAKE SURE YOUR CURRENT WORKING DIRECTORY IS THE ROOT of netsuite_uploader
+
+# Credentials
+
+If you want to use multithreading, that requires netsuite gems. 
+You'll probably need to contact tom fuller! (that's me!) because i have ALL the gems!
