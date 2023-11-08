@@ -11,3 +11,8 @@ MAKE SURE YOUR CURRENT WORKING DIRECTORY IS THE ROOT of netsuite_uploader
 
 If you want to use multithreading, that requires netsuite gems. 
 You'll probably need to contact tom fuller! (that's me!) because i have ALL the gems!
+
+# git - things to bear in mind
+
+* Make sure you clear all outputs in jupyter notebooks before you commit
+* Add any csv files to git ignore! :)
