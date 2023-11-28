@@ -7,3 +7,10 @@ customer_uploader/thread_logs
 /customer_uploader/legacy_logs/
 /api_playground/
 /transaction_uploader/test_upload/
+/employee_uploader/thread_logs/
+/employee_uploader/employee_excels/
+/merch_heirarchy/for_uploads/
+/customer_uploader/test_files/
+/purchase_order_uploader/thread_logs/
+/merch_heirarchy/thread_logs/
+/merch_heirarchy/thread_logs/

@@ -4,7 +4,11 @@ cols = ["department", "new_pgr", "new_sgr", "new_type", "new_type_detail"]
 
 # todo: remove todos
 # todo: directly from bigquery pandas.read_gbq
-everything = pandas.read_csv('all_attributes_and_properties.csv')
+everything = pandas.read_gbq("""select refnr 
+	, item_hierarchy 
+from `bq-central-dev`.data_migration_products.dbt_products__all_attributes_and_properties
+where item_hierarchy is null
+;""")
 """
 fashion_extras = pandas.read_csv('fashion_extras.csv', delimiter="@")
 

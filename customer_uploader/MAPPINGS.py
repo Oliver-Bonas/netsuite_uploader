@@ -278,6 +278,7 @@ STATUS_VALUE_MAP_CSV = {
 STATUS_VALUE_MAP = {
     'Closed Lost': {'internalId': 14},
     'Closed Won': {'internalId': 13},
+     "CustomER-Closed Won": {'internalId': 13},
     'Identified Decision Makers': {'internalId': 9},
     'In Discussion': {'internalId': 8},
     'In Negotiation': {'internalId': 11},
